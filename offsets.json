@@ -17,7 +17,9 @@
     "dwViewMatrix": 31654992,
     "dwViewRender": 31657928,
     "dwWeaponC4": 31248912,
-    "m_nBombSite": 3716
+    "dwForceJump": 24392928,
+    "m_fFlags": 1004
+
   },
   "engine2.dll": {
     "dwBuildNumber": 6231012,

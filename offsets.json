@@ -16,7 +16,8 @@
     "dwViewAngles": 31697024,
     "dwViewMatrix": 31654992,
     "dwViewRender": 31657928,
-    "dwWeaponC4": 31248912
+    "dwWeaponC4": 31248912,
+    "m_nBombSite": 3716
   },
   "engine2.dll": {
     "dwBuildNumber": 6231012,

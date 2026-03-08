@@ -22,25 +22,26 @@
 
   },
   "engine2.dll": {
-    "dwBuildNumber": 6231012,
-    "dwNetworkGameClient_clientTickCount": 912,
-    "dwNetworkGameClient_deltaTick": 572,
-    "dwNetworkGameClient_isBackgroundMap": 2888807,
-    "dwNetworkGameClient_localPlayer": 232,
-    "dwNetworkGameClient_maxClients": 560,
-    "dwNetworkGameClient_serverTickCount": 572,
-    "dwNetworkGameClient_signOnState": 544,
-    "dwWindowHeight": 9369636,
-    "dwWindowWidth": 9369632
+    "dwBuildNumber": 6346004,
+    "dwNetworkGameClient": 9471232,
+    "dwNetworkGameClient_clientTickCount": 888,
+    "dwNetworkGameClient_deltaTick": 588,
+    "dwNetworkGameClient_isBackgroundMap": 2888735,
+    "dwNetworkGameClient_localPlayer": 248,
+    "dwNetworkGameClient_maxClients": 576,
+    "dwNetworkGameClient_serverTickCount": 588,
+    "dwNetworkGameClient_signOnState": 560,
+    "dwWindowHeight": 9488556,
+    "dwWindowWidth": 9488552
   },
   "inputsystem.dll": {
-    "dwInputSystem": 285216
+    "dwInputSystem": 285392
   },
   "matchmaking.dll": {
-    "dwGameTypes": 1793760
+    "dwGameTypes": 1802240
   },
   "soundsystem.dll": {
-    "dwSoundSystem": 4107872,
+    "dwSoundSystem": 5190768,
     "dwSoundSystem_engineViewData": 124
   }
 }

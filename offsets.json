@@ -18,10 +18,12 @@
   },
   "engine2.dll": {
     "dwBuildNumber": 6350100,
+    "dwNetworkGameClient": 9471280,
     "dwNetworkGameClient_clientTickCount": 888,
     "dwNetworkGameClient_deltaTick": 588,
     "dwNetworkGameClient_isBackgroundMap": 2888735,
     "dwNetworkGameClient_localPlayer": 248,
+    "dwNetworkGameClient_maxClients": 576,
     "dwNetworkGameClient_serverTickCount": 588,
     "dwNetworkGameClient_signOnState": 560,
     "dwWindowHeight": 9492892,
@@ -34,6 +36,7 @@
     "dwGameTypes": 1802240
   },
   "soundsystem.dll": {
-    "dwSoundSystem": 5190768
+    "dwSoundSystem": 5190768,
+    "dwSoundSystem_engineViewData": 124
   }
 }
